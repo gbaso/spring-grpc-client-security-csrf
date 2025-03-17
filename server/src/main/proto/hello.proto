@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package hello;
+
+option java_package = "com.github.gbaso.grpc.csrf";
+
+service Greeting {
+  rpc hello(HelloRequest) returns (HelloResponse) {}
+}
+
+message HelloRequest {
+  string name = 1;
+}
+
+message HelloResponse {
+  string message = 1;
+}
