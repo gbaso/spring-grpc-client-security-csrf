@@ -10,7 +10,7 @@
   </parent>
   <groupId>com.github.gbaso</groupId>
   <artifactId>hello-server</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1</version>
   <name>hello-server</name>
   <description>hello-server</description>
   <url/>

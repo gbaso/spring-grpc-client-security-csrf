@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.github.gbaso</groupId>
 	<artifactId>spring-grpc-client-security-csrf</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1</version>
 	<name>spring-grpc-client-security-csrf</name>
 	<description>spring-grpc-client-security-csrf</description>
 	<url/>
